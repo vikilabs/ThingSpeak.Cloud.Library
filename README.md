@@ -1,5 +1,5 @@
 
-## Embedded C Library to communicate with ThingSpeak Cloud
+## Embedded C Library to communicate with ThingSpeak IoT Cloud
 
 Simple Library to communicate with thingspeak cloud.
 
